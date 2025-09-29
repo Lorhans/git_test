@@ -1,1 +1,3 @@
 Estou dando os primeiros passos no terminal, aprendendo tambem sobre o Git e o GitHub.
+
+Esse aqui e pra testar o commit sem o "-m".
